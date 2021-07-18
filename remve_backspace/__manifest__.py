@@ -9,6 +9,7 @@
        
     """,
     'price': 49.99,
+    'currency': 'USD',
 
     'author': "Mohamed Hamdy",
     'website': "mohamedhamdy123890456@gmail.com",
