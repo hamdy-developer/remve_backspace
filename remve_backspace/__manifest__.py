@@ -23,5 +23,10 @@
     'qweb': [
         'static/src/xml/Chrome.xml',
     ],
+    
+    'images': [
+        'static/description/cover.png',
+        'static/description/icon.png',
+    ],
 
 }
