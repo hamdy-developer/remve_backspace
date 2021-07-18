@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <template >
+            <t t-extend="point_of_sale.Chrome">
+                <t t-jquery="button.numpad-backspace" t-operation="replace"/>
+            </t>
+        </template>
+    </data>
+</odoo>
